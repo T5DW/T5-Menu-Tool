@@ -9,7 +9,7 @@ load your unsigned content. Everything runs locally, offline, against your
 own copy of the game.
 
 > Full technical reference (every tab, command, and format detail) lives in
-> [`docs/REFERENCE.md`](docs/REFERENCE.md).
+> [`docs/REFERENCE.md`](XENIA-COD-TOOL/docs/REFERENCE.md).
 
 ---
 
