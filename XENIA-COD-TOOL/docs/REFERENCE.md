@@ -375,7 +375,7 @@ shows `dynamicFlags` and writes shared expressions as `rpn shared ref:0x... <cou
 
 ## Format notes
 
-See [docs/format-notes.md](docs/format-notes.md) for the container format reversed from the XEX. In short:
+See [docs/format-notes.md](XENIA-COD-TOOL/docs/format-notes.md) for the container format reversed from the XEX. In short:
 
 - `IWff0100`/`IWffu100`, version `0x1D7`, `IWffs101` auth header, zone name at `0x1C`, data at `0x13C`.
 - Retail: version `0x1D9`, `PHEEBs71` auth header. Each block is its own raw deflate stream, encrypted with Salsa20. The per-stream IVs chain through SHA-1 hashes of the previous blocks.
