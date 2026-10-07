@@ -1,2 +1,0 @@
-pycryptodome>=3.15  # optional: faster AES; a pure-Python fallback is built in
-tkinterdnd2>=0.3  # optional: drag and drop in app.py
